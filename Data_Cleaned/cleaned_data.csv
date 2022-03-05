@@ -1,0 +1,10 @@
+date,weekday,day_temp,night_temp,description,rain_%,wind_strength,wind_direction
+06,søn,6°,-1°,Partly CloudyDelvist skyet,12,13,WindNV
+07,man,8°,-2°,Mostly SunnyMest solrigt,12,12,WindNNV
+08,tir,7°,-1°,Mostly SunnyMest solrigt,12,7,WindNNV
+09,ons,6°,1°,Mostly SunnyMest solrigt,12,11,WindØSØ
+10,tor,4°,1°,Partly CloudyDelvist skyet,8,23,WindSØ
+11,fre,5°,1°,Mostly SunnyMest solrigt,5,26,WindSØ
+12,lør,5°,1°,Partly CloudyDelvist skyet,8,24,WindSØ
+13,søn,6°,1°,Partly CloudyDelvist skyet,7,20,WindØSØ
+14,man,6°,2°,Partly CloudyDelvist skyet,18,21,WindØSØ
